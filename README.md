@@ -2,7 +2,7 @@
 
 run project enter into cmd python manage.py runserver 4000
 
-copy adress inser in your browser and then write (generatedip)/posts
+copy adress, insert in your browser and then write (generatedip)/posts
 
 need to import database in WorkBench
 
